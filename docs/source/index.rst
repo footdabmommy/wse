@@ -20,3 +20,4 @@ Contents
 
    home
    spawn
+   claims
