@@ -11,7 +11,7 @@ IP: play.worstserverever.com
 
 .. note::
 
-   This project is under active development.
+   This project is under active development. This means some commands may not yet be documented.
 
 Contents
 --------
