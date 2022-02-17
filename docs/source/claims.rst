@@ -87,7 +87,7 @@ Return to normal claiming
 To return to normal claiming mode, use the command ``/basicclaims``
 This will make it so your shovel makes normal claims rather than subclaims.
 
-I am stuck im another claim
+I am stuck in a claim
 --------
 
 To teleport out of a claimed area you are trapped in, use the command ``/trapped``
