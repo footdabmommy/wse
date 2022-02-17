@@ -72,3 +72,41 @@ Drinking
 --------
 
 When drank by the player, the amount of alcohol inside the brew will make the player slightly drunk.
+Different levels of drunkness have different effects on the player.
+
+The Player may not be able to walk normally anymore, he will weave, making it almost impossible to walk straight
+Effects like Blindness, Confusion, Poison etc. occur
+
+The Chat will be altered depending on drunkeness, many things players write may be incomprehensible, sometimes it seems senseless
+
+Is the Alcohol particularly strong, it may have poisonous effects
+
+After drinking a lot, there is a chance of vomiting
+
+When logging off, the player may have difficulties reaching his character, thus some loggins shortly after may be denied
+
+After Overdrinking the player may faint (This will kick you)
+
+Sealing Drinks
+--------
+
+You may wish to seal your drink in order to be able to sell it.
+To do this simply just craft a brew sealing table as seen below.
+.. image:: https://camo.githubusercontent.com/c7e5aa89fe4acfef69a62b7e10f95622b99ab7ba5f9e4906dcf766309993d564/68747470733a2f2f7a6562726164726976652e64652f696e6465782e7068702f732f614a587057506a5a41576e417656452f646f776e6c6f6164
+This table will equalise the brew so that it is equal to similarly brewed drinks
+Sealed brews cannot be aged more or modified in any way.
+
+Getting Sober
+--------
+
+After getting drunk, it takes time for the drunkness level to drop.
+Alternatively you can use milk to speed this up.
+
+Other effects
+--------
+
+When logging off extremely drunk, it may happen that, if the player logs back in after a while, he may find himself at an completely unknown Place in the middle of nowhere having no idea how they got there.
+
+But if they log back in after some hours or next morning, he will find himself at /home, again without any memories.
+
+Also if the Alcohol was not of best quality, the player may face some bad type of hangover (slowness and hunger).
