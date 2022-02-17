@@ -25,3 +25,4 @@ Contents
    tags
    pvp
    brewery
+   donator
