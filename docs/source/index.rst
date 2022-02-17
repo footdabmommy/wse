@@ -21,3 +21,4 @@ Contents
    home
    spawn
    claims
+   linking
