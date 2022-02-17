@@ -5,9 +5,13 @@ Fermenting
 --------
 
 The first step in making a drink is to ferment the raw ingredients.
+
 1. Place cauldron over heat source and fill it with water
+
 2. Add the ingredients by right clicking
+
 3. Wait the set time in said by the recipe
+
 4. Fill glass bottles with the fermented liquid
 
 You can use a clock to see how long the fermentation has been going on.
@@ -17,7 +21,9 @@ Distilling
 
 Not all recipes require fermentation 
 To ferment:
+
 1. Place the bottles into a brewing stand
+
 2. Place glowstone dust into the top of the brewing stand. This will not be used up
 
 Ageing
@@ -56,3 +62,13 @@ Attach a Spigot (Fence) and a Sign that has "Barrel" written on it:
 
 Message "Barrel created" should appear  
 **You may remove the Sign from the Big Barrel after creating it.**
+
+To open a barrel, simply right click it.
+Each Minecraft day represents 1 year.
+Each recipe requires a different type of wood for the barrel to be made of and the time it should be aged for.
+The standard Minecraft barrel is an oak barrel.
+
+Drinking
+--------
+
+When drank by the player, the amount of alcohol inside the brew will make the player slightly drunk.
