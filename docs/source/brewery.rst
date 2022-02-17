@@ -25,16 +25,15 @@ Ageing
 
 A barrel is needed for aging. 
 
-**Minecraft Barrel** | _6 Slots_
-
-Starting in 1.14 the [Minecraft-Barrel](https://minecraft.gamepedia.com/Barrel) can be used for aging of a few brews.
+**Minecraft Barrel** | 6 slots
+The standard Minecraft Barrel can be used for aging of a few brews.
 Simply craft and place the barrel and put the brews inside.
 
-![](https://gamepedia.cursecdn.com/minecraft_de_gamepedia/thumb/3/33/Fass.png/150px-Fass.png?version=ed8bc982279530ea46dac7b932ec1b86)
+..image :https://gamepedia.cursecdn.com/minecraft_de_gamepedia/thumb/3/33/Fass.png/150px-Fass.png?version=ed8bc982279530ea46dac7b932ec1b86
 
 You can also build bigger barrels. They can be built in two ways:
 
-**Small barrel** | _9 Slots_
+**Small barrel** | 9 Slots
 
 Use 8 wooden stairs to build a barrel shape.
 
@@ -47,7 +46,7 @@ Place a Sign on the lower right side and write "Barrel" in the upper Line:
 Message "Barrel created" should appear.
 
 
-**Big barrel** | _27 Slots_
+**Big barrel** | 27 Slots
 
 Use 5 Fences, 16 Wooden stairs, and 18 wood planks to build a barrel shape.
 Attach a Spigot (Fence) and a Sign that has "Barrel" written on it:
