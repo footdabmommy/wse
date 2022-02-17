@@ -39,9 +39,9 @@ Use 8 wooden stairs to build a barrel shape.
 
 Place a Sign on the lower right side and write "Barrel" in the upper Line:
 
-..image:: https://imgur.com/Mspl5n6.png
-..image:: https://imgur.com/BkNsi54.png
-..image:: http://i.imgur.com/uIpCfxA.png
+.. image:: https://imgur.com/Mspl5n6.png
+.. image:: https://imgur.com/BkNsi54.png
+.. image:: http://i.imgur.com/uIpCfxA.png
 
 Message "Barrel created" should appear.
 
@@ -51,8 +51,8 @@ Message "Barrel created" should appear.
 Use 5 Fences, 16 Wooden stairs, and 18 wood planks to build a barrel shape.
 Attach a Spigot (Fence) and a Sign that has "Barrel" written on it:
 
-..image:: https://imgur.com/FOr7lN5.png
-..image:: https://imgur.com/k3h4qj0.png
+.. image:: https://imgur.com/FOr7lN5.png
+.. image:: https://imgur.com/k3h4qj0.png
 
 Message "Barrel created" should appear  
 **You may remove the Sign from the Big Barrel after creating it.**
