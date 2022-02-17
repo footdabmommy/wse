@@ -72,12 +72,12 @@ Drinking
 --------
 
 When drank by the player, the amount of alcohol inside the brew will make the player slightly drunk.
-Different levels of drunkness have different effects on the player.
+Different levels of drunkenness have different effects on the player.
 
 The Player may not be able to walk normally anymore, he will weave, making it almost impossible to walk straight
 Effects like Blindness, Confusion, Poison etc. occur
 
-The Chat will be altered depending on drunkeness, many things players write may be incomprehensible, sometimes it seems senseless
+The Chat will be altered depending on drunkenness, many things players write may be incomprehensible, sometimes it seems senseless
 
 Is the Alcohol particularly strong, it may have poisonous effects
 
@@ -100,7 +100,7 @@ Sealed brews cannot be aged more or modified in any way.
 Getting Sober
 --------
 
-After getting drunk, it takes time for the drunkness level to drop.
+After getting drunk, it takes time for the drunkenness level to drop.
 Alternatively you can use milk to speed this up.
 
 Other effects
