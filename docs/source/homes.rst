@@ -1,4 +1,4 @@
-Home
+Homes
 =====
 
 .. _sethome:
