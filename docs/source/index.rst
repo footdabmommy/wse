@@ -23,3 +23,4 @@ Contents
    claims
    linking
    tags
+   pvp
