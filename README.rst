@@ -1,9 +1,4 @@
-Template for the Read the Docs tutorial
+Worst Server Ever Docs Source UwU
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
-
-Read the tutorial here:
-
-https://docs.readthedocs.io/en/stable/tutorial/
+Idk what to put here UwU OwO
