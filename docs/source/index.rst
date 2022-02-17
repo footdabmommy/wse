@@ -18,7 +18,7 @@ Contents
 
 .. toctree::
 
-   home
+   homes
    spawn
    claims
    linking
