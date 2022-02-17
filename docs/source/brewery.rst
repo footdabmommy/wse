@@ -114,3 +114,5 @@ Also if the Alcohol was not of best quality, the player may face some bad type o
 
 Recipes
 --------
+
+For recipes, please see https://github.com/DieReicheErethons/Brewery/wiki/Recipes
