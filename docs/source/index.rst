@@ -24,3 +24,4 @@ Contents
    linking
    tags
    pvp
+   brewery
