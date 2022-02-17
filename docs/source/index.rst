@@ -22,3 +22,4 @@ Contents
    spawn
    claims
    linking
+   tags
