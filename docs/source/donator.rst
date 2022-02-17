@@ -8,7 +8,7 @@ Donating unlocks perks for you to use ingame
 Perks
 --------
 
-.. image:: https://ibb.co/XLZP6KW
+.. image:: https://i.imgur.com/2bCBbZv.jpg
 
 
 Fly
