@@ -1,7 +1,7 @@
 Donator
 =====
 
-You can donate at https://shop.worstserverever.com
+You can donate at our `webstore <https://shop.worstserverever.com>`_
 
 Donating unlocks perks for you to use in game.
 
