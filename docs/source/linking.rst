@@ -25,4 +25,4 @@ Then on the other account run ``/linkaccount <code>``
 
 Your accounts are now linked!
 
-For more details see https://link.geysermc.org/start
+For more details see `the geyser linking tutorial <https://link.geysermc.org/start>`_
