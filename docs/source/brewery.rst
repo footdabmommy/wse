@@ -92,6 +92,7 @@ Sealing Drinks
 
 You may wish to seal your drink in order to be able to sell it.
 To do this simply just craft a brew sealing table as seen below.
+
 .. image:: https://i.imgur.com/eHyeUDK.jpg
 
 This table will equalise the brew so that it is equal to similarly brewed drinks
