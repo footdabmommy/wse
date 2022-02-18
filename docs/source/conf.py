@@ -3,11 +3,11 @@
 # -- Project information
 
 project = 'Worst Server Ever Docs'
-copyright = '2022, Worst Server Ever'
-author = 'Jarool'
+copyright = '2022 - Present, Worst Server Ever'
+author = 'JaroolFan69'
 
 release = '0.1'
-version = '0.1.0'
+version = '0.8.4b'
 
 # -- General configuration
 
