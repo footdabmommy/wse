@@ -9,6 +9,10 @@ This will generate a 4 digit code which is sent in chat to you.
 Then DM the Worst Server Ever bot on discord (Name: 'Worst Server Ever#9344') with the code.
 If you have done this correctly, your accounts will be linked and you will recieve a discord tag in-game.
 
+.. image:: https://i.imgur.com/5sCo8e6.png
+
+.. image:: https://i.imgur.com/wmeMpC0.png
+
 Link Java and Bedrock accounts
 --------
 
