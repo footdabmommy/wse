@@ -16,7 +16,7 @@ If you have done this correctly, your accounts will be linked and you will recie
 Link Java and Bedrock accounts
 --------
 
-Before you link your accounts, please ensure you have stored the inventory of your bedrock account somewhere safe as it will be lost when they are linked.
+Before you link your accounts, please ensure you have stored the inventory of your bedrock account somewhere safe as it will not be transferred after linking (If you linked but didn't take out the items you need to `unlink <https://link.geysermc.org/method/server>`_. Join the Geyser linking server and do ``/unlinkaccount``).
 
 The easiest way to link your Java and Bedrock accounts is by joining the linking server.
 The IP for this server is: ``link.geysermc.org``

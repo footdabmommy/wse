@@ -6,7 +6,7 @@ Welcome to the documentation for the Worst Server Ever! Here you can find inform
 Want to join the server?
 --------
 
-Join the `discord <https://discord.worstserverver.com>`_
+Join our `Discord <https://discord.worstserverver.com>`_!
 
 IP: play.worstserverever.com
 
@@ -16,7 +16,7 @@ Java port: 25565
 
 .. note::
 
-   This project is under active development. This means some commands may not yet be documented.
+   This documentation is under active development. This means some commands may not yet be documented.
 
 Contents
 --------

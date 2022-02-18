@@ -8,13 +8,13 @@ Set Home
 
 To set your home, run the command ``/sethome <name>`` where <name> is the name of the home
 You can then select the item that will represent your home from the next menu.
-You can make up to 3 unless you are a donator.
+You can make up to 3 unless you are a `donator <https://docs.worstserverever.com/en/latest/donator.html>`_.
 
-Go Home
+Go to Home
 ----------------
 
-To teleport to your home, run the command ``/home``
-If you have more than 1 home, this will bring up a menu where you can select the home to go to.
+| To teleport to your home, run the command ``/home``
+If you have more than 1 home a menu will be brought up where you can select the home you want to go to.
 
 Delete Home
 ----------------

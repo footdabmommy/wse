@@ -1,5 +1,5 @@
 PVP toggle
 =====
 
-To toggle pvp, simply just do ``/pvp``!
-You will then get a message saying if pvp is on or off
+| To toggle pvp, simply do ``/pvp``!
+You will receive a message telling if pvp is on or off.

@@ -1,52 +1,54 @@
 Donator
 =====
 
-You can donate at our `webstore <https://shop.worstserverever.com>`_
+You can support us `here <https://shop.worstserverever.com>`_!
 
-Donating unlocks perks for you to use in game.
+Donating unlocks perks for you to use on the minecraft server.
+On the discord server you get access to the supporters lounge.
 
 Perks
 --------
 
 .. image:: https://i.imgur.com/2bCBbZv.jpg
 
-.. note:: You can only purchase Donator, 420, UwU and Senpai as of right now.
+.. note:: Tags available by default are Donator ($1), 420 haha ($4.20), UwU ($10) and Senpai ($100). Special donator tags are available at random times. The doc will only be updated for changes made to the default tags.
 
 
 Fly
 --------
 
 Whilst in hub, use ``/fly`` to toggle fly mode.
-Then double jump to fly
+Then double jump to fly.
 
 Hat
 --------
 
-Hold an item and use ``/hat``
-This puts the item into your head slot
+| Hold an item and use ``/hat``
+This puts the item in your hand into your head slot.
 
-Ride
+Ride Player/Dolphin
 --------
 
-To ride, look at a mob/player and use ``/ride``
+| To ride a player you need to look at the player and use ``/ride``
+To ride a dolphin simply right click on it.
 
 Sit
 --------
 
-To sit, simply use ``/sit``
+| To sit, simply use ``/sit``
 Left shift or sneak to stand up.
 
 Sign edit
 --------
 
-Shift and right click the sign.
+Shift/Sneak and right click the sign.
 This allows you to edit the sign without breaking it.
 
 Painting scroll
 --------
 
 Shift and right click a painting.
-Then use the scroll wheel to scroll through the availabile paintings.
+Then use the scroll wheel to scroll through the available paintings.
 
 Coloured Name
 --------
@@ -57,7 +59,7 @@ After selecting your tag, another menu will come up with colours on them. From h
 
 Punch Staff
 --------
+.. note:: The UwU tag is needed for this perk!
 
-Anyone with UwU or above has the abiltiy to punch Jr. Mods +
-
-Simply just punch them to do this!
+Anyone with UwU or above has the ability to punch Jr. Mods, Mods, bAdmins and Owners.
+Simply punch them to send them to the skies!
