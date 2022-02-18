@@ -2,20 +2,7 @@ Worst Server Ever Docs Source UwU
 =======================================
 
 Idk what to put here UwU OwO
-visit us at https://docs.worstserverever.com
+`Documentation <https://docs.worstserverever.com>`_
+Our `Discord<https://discord.worstserverever.com>`_
+
 Bazinga
-
-Contents
---------
-
-.. toctree::
-
-   homes
-   spawn
-   claims
-   linking
-   tags
-   pvp
-   brewery
-   donator
-   ticket system
