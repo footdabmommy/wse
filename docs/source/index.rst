@@ -31,3 +31,4 @@ Contents
    pvp
    brewery
    donator
+   ticket system
