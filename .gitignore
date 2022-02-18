@@ -161,3 +161,5 @@ docs/.idea/inspectionProfiles/Project_Default.xml
 docs/.idea/inspectionProfiles/profiles_settings.xml
 docs/.idea/docs.iml
 docs/.idea/discord.xml
+*.iml
+*.xml
