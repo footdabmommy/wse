@@ -14,7 +14,7 @@ Remove tag
 --------
 
 To removr your tag, run ``/tags``
-At the bottom you will see a player head, press that and yiur tag will be unselected.
+At the bottom you will see a player head, press that and your tag will be unselected.
 (Once again some bedrock versions may have to move the head to another slot)
 
 Change tag
