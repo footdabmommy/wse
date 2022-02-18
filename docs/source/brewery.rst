@@ -92,7 +92,7 @@ Sealing Drinks
 
 You may wish to seal your drink in order to be able to sell it.
 To do this simply just craft a brew sealing table as seen below.
-.. image:: https://cdn.discordapp.com/attachments/801499825275011093/944038152010596392/image0.jpg
+.. image:: https://i.imgur.com/eHyeUDK.jpg
 
 This table will equalise the brew so that it is equal to similarly brewed drinks
 Sealed brews cannot be aged more or modified in any way.
@@ -115,4 +115,4 @@ Also if the Alcohol was not of best quality, the player may face some bad type o
 Recipes
 --------
 
-For recipes, please see `the recipe wiki <https://github.com/DieReicheErethons/Brewery/wiki/Recipes>`_
+For recipes, please see `the official brewery docs <https://github.com/DieReicheErethons/Brewery/wiki/Recipes>`_
