@@ -10,8 +10,6 @@ Perks
 --------
 
 .. list-table::
-  :widths: 25 25 50
-  :header-rows: 1
    
   * - **Donator**
     - **420**
@@ -61,6 +59,14 @@ Perks
     - Sethome 7
     - Sethome 8
     - Sethome
+  * - Coloured Name
+    - Coloured Name
+    - Coloured Name
+    - Coloured Name
+    - Coloured Name
+    - Coloured Name
+    - Coloured Name
+    - Coloured Name
   * -
     - Nickname
     - Nickname
@@ -96,6 +102,14 @@ Perks
   * -
     -
     - Rainbow Trail
+    -
+    -
+    -
+    -
+    -
+  * -
+    -
+    - Punch Jr. Mod+
     -
     -
     -
