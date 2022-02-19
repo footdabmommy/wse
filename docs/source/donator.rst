@@ -11,7 +11,7 @@ Perks
 
 .. image:: https://i.imgur.com/2bCBbZv.jpg
 
-.. list-table::
+.. list-table:: Donator Perks
    :widths: 25 25 50
    :header-rows: 1
    * - Donator
