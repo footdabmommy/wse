@@ -15,22 +15,22 @@ Perks
    :widths: 250 250 500
    :header-rows: 1
    
-   * - Donator
-     - 420
-     - UwU
-     - BigChungus
-     - Nice
-     - Senpai
-     - Beeg Yoshi
-     - Bruh Moment
-   * - Donator Prefix
-     - 420 Prefix
-     - UwU Prefix
-     - BigChungus Prefix
-     - Nice Prefix
-     - Senpai Prefix
-     - Beeg Yoshi Prefix
-     - Bruh Moment Prefix
+  * - Donator
+    - 420
+    - UwU
+    - BigChungus
+    - Nice
+    - Senpai
+    - Beeg Yoshi
+    - Bruh Moment
+  * - Donator Prefix
+    - 420 Prefix
+    - UwU Prefix
+    - BigChungus Prefix
+    - Nice Prefix
+    - Senpai Prefix
+    - Beeg Yoshi Prefix
+    - Bruh Moment Prefix
    
    
 outdated image, will be updated soon.
