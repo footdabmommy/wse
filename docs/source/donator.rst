@@ -23,14 +23,14 @@ Perks
      - Senpai
      - Beeg Yoshi
      - Bruh Moment
-  * - Donator Prefix
-    - 420 Prefix
-    - UwU Prefix
-    - BigChungus Prefix
-    - Nice Prefix
-    - Senpai Prefix
-    - Beeg Yoshi Prefix
-    - Bruh Moment Prefix
+   * - Donator Prefix
+     - 420 Prefix
+     - UwU Prefix
+     - BigChungus Prefix
+     - Nice Prefix
+     - Senpai Prefix
+     - Beeg Yoshi Prefix
+     - Bruh Moment Prefix
    * - Fly in hub
      - Fly in hub
      - Fly in hub
