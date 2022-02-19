@@ -58,7 +58,7 @@ Perks
     - Sethome 6
     - Sethome 7
     - Sethome 8
-    - Sethome
+    - Sethome 8
   * - Coloured Name
     - Coloured Name
     - Coloured Name
