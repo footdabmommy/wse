@@ -31,54 +31,8 @@ Perks
      - Senpai Prefix
      - Beeg Yoshi Prefix
      - Bruh Moment Prefix
-   * - Fly in hub
-     - Fly in hub
-     - Fly in hub
-     - Fly in hub
-     - Fly in hub
-     - Fly in hub
-     - Fly in hub
-     - Fly in hub
-   * - Hat
-     - Hat
-     - Hat
-     - Hat
-     - Hat
-     - Hat
-     - Hat
-     - Hat
-   * - Ride
-     - Ride
-     - Ride
-     - Ride
-     - Ride
-     - Ride
-     - Ride
-     - Ride
-   * - Sethome 4
-     - Sethome 4
-     - Sethome 4
-     - Sethome 6
-     - Sethome 6
-     - Sethome 7
-     - Sethome 8
-     - Sethome 8
-   * -
-     - Nickname
-     - Nickname
-     - Nickname
-     - Nickname
-     - Nickname
-     - Nickname
-     - Nickname
-   * -
-     - Sit
-     - Sit
-     - Sit
-     - Sit
-     - Sit
-     - Sit
-
+   
+   
 outdated image, will be updated soon.
 
 .. note:: Tags available by default are Donator ($1), 420 haha ($4.20), UwU ($10) and Senpai ($100). Special donator tags are available at random times. The doc will only be updated for changes made to the default tags.
