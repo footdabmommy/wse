@@ -14,6 +14,7 @@ Perks
 .. list-table:: Donator Perks
    :widths: 25 25 50
    :header-rows: 1
+   
    * - Donator
      - 420
      - UwU
