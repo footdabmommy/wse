@@ -9,20 +9,18 @@ On the discord server you get access to the supporters lounge.
 Perks
 --------
 
-.. image:: https://i.imgur.com/2bCBbZv.jpg
-
-.. list-table:: Donator Perks
+.. list-table::
    :widths: 25 25 50
    :header-rows: 1
    
-  * - Donator
-    - 420
-    - UwU
-    - BigChungus
-    - Nice
-    - Senpai
-    - Beeg Yoshi
-    - Bruh Moment
+  * - **Donator**
+    - **420**
+    - **UwU**
+    - **BigChungus**
+    - **Nice**
+    - **Senpai**
+    - **Beeg Yoshi**
+    - **Bruh Moment**
   * - Donator Prefix
     - 420 Prefix
     - UwU Prefix
