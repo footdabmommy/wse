@@ -10,8 +10,8 @@ Perks
 --------
 
 .. list-table::
-   :widths: 25 25 50
-   :header-rows: 1
+  :widths: 25 25 50
+  :header-rows: 1
    
   * - **Donator**
     - **420**
