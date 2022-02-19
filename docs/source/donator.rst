@@ -11,114 +11,114 @@ Perks
 
 .. image:: https://i.imgur.com/2bCBbZv.jpg
 
-.. list-table:: Is title needed?
+.. list-table:: Donator Perks
    :widths: 25 25 50
    :header-rows: 1
    
-   * - Donator
-     - 420
-     - UwU
-     - BigChungus
-     - Nice
-     - Senpai
-     - Beeg Yoshi
-     - Bruh Moment
-   * - Donator Prefix
-     - 420 Prefix
-     - UwU Prefix
-     - BigChungus Prefix
-     - Nice Prefix
-     - Senpai Prefix
-     - Beeg Yoshi Prefix
-     - Bruh Moment Prefix
-   * - Fly in hub
-     - Fly in hub
-     - Fly in hub
-     - Fly in hub
-     - Fly in hub
-     - Fly in hub
-     - Fly in hub
-     - Fly in hub
-   * - Hat
-     - Hat
-     - Hat
-     - Hat
-     - Hat
-     - Hat
-     - Hat
-     - Hat
-   * - Ride
-     - Ride
-     - Ride
-     - Ride
-     - Ride
-     - Ride
-     - Ride
-     - Ride
-   * - Sethome 4  
-     - Sethome 4
-     - Sethome 4
-     - Sethome 6
-     - Sethome 6
-     - Sethome 7
-     - Sethome 8
-     - Sethome 8
-   * -
-     - Nickname
-     - Nickname
-     - Nickname
-     - Nickname
-     - Nickname
-     - Nickname
-     - Nickname
-   * -
-     - Sit
-     - Sit
-     - Sit
-     - Sit
-     - Sit
-     - Sit
-     - Sit
-   * -
-     - Full Server Bypass
-     - Full Server Bypass
-     - Full Server Bypass
-     - Full Server Bypass
-     - Full Server Bypass
-     - Full Server Bypass
-     - Full Server Bypass
-   * -
-     - Happy Particles
-     - Rainbow Particles
-     -
-     -
-     -
-     -
-     -
-   * -
-     -
-     - Rainbow Trail
-     -
-     -
-     -
-     -
-     -
-   * - 
-     - Shift Sign Edit
-     - Shift Sign Edit
-     - Shift Sign Edit
-     - Shift Sign Edit
-     - Shift Sign Edit
-     - Shift Sign Edit
-     - Shift Sign Edit
-   * - 
-     - Painting Scroll
-     - Painting Scroll
-     - Painting Scroll
-     - Painting Scroll
-     - Painting Scroll
-     - Painting Scroll
-     - Painting Scroll
+  * - Donator
+    - 420
+    - UwU
+    - BigChungus
+    - Nice
+    - Senpai
+    - Beeg Yoshi
+    - Bruh Moment
+  * - Donator Prefix
+    - 420 Prefix
+    - UwU Prefix
+    - BigChungus Prefix
+    - Nice Prefix
+    - Senpai Prefix
+    - Beeg Yoshi Prefix
+    - Bruh Moment Prefix
+  * - Fly in hub
+    - Fly in hub
+    - Fly in hub
+    - Fly in hub
+    - Fly in hub
+    - Fly in hub  
+    - Fly in hub
+    - Fly in hub
+  * - Hat
+    - Hat
+    - Hat
+    - Hat
+    - Hat
+    - Hat
+    - Hat
+    - Hat
+  * - Ride 
+    - Ride
+    - Ride
+    - Ride
+    - Ride
+    - Ride
+    - Ride
+    - Ride
+  * - Sethome 4  
+    - Sethome 4
+    - Sethome 4
+    - Sethome 6
+    - Sethome 6
+    - Sethome 7
+    - Sethome 8
+    - Sethome
+  * -
+    - Nickname
+    - Nickname
+    - Nickname
+    - Nickname
+    - Nickname
+    - Nickname
+    - Nickname
+  * -
+    - Sit
+    - Sit
+    - Sit
+    - Sit
+    - Sit
+    - Sit
+    - Sit
+  * -
+    - Full Server Bypass
+    - Full Server Bypass
+    - Full Server Bypass
+    - Full Server Bypass
+    - Full Server Bypass
+    - Full Server Bypass
+    - Full Server Bypass
+  * -
+    - Happy Particles
+    - Rainbow Particles
+    -
+    -
+    -
+    -
+    -
+  * -
+    -
+    - Rainbow Trail
+    -
+    -
+    -
+    -
+    -
+  * - 
+    - Shift Sign Edit
+    - Shift Sign Edit
+    - Shift Sign Edit
+    - Shift Sign Edit
+    - Shift Sign Edit
+    - Shift Sign Edit
+    - Shift Sign Edit
+  * - 
+    - Painting Scroll
+    - Painting Scroll
+    - Painting Scroll
+    - Painting Scroll
+    - Painting Scroll
+    - Painting Scroll
+    - Painting Scroll
    
    
 outdated image, will be updated soon.
