@@ -110,11 +110,11 @@ Perks
   * -
     -
     - Punch Jr. Mod+
-    -
-    -
-    -
-    -
-    -
+    - Punch Jr. Mod+
+    - Punch Jr. Mod+
+    - Punch Jr. Mod+
+    - Punch Jr. Mod+
+    - Punch Jr. Mod+
   * - 
     - Shift Sign Edit
     - Shift Sign Edit
@@ -131,9 +131,6 @@ Perks
     - Painting Scroll
     - Painting Scroll
     - Painting Scroll
-   
-   
-outdated image, will be updated soon.
 
 .. note:: Tags available by default are Donator ($1), 420 haha ($4.20), UwU ($10) and Senpai ($100). Special donator tags are available at random times. The doc will only be updated for changes made to the default tags.
 
