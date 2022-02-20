@@ -118,6 +118,14 @@ Perks
     - Punch Jr. Mod+
     - Punch Jr. Mod+
     - Punch Jr. Mod+
+  * - 
+    -
+    - `Helpful Extras <https://docs.worstserverever.com/en/latest/donator.html#helpful-extras>`_
+    - `Helpful Extras <https://docs.worstserverever.com/en/latest/donator.html#helpful-extras>`_
+    - `Helpful Extras <https://docs.worstserverever.com/en/latest/donator.html#helpful-extras>`_
+    - `Helpful Extras <https://docs.worstserverever.com/en/latest/donator.html#helpful-extras>`_
+    - `Helpful Extras <https://docs.worstserverever.com/en/latest/donator.html#helpful-extras>`_
+    - `Helpful Extras <https://docs.worstserverever.com/en/latest/donator.html#helpful-extras>`_
   * -
     - Happy Particles
     - Rainbow Particles
@@ -201,7 +209,7 @@ Current options:
 
 .. warning:: Having your personal time as day will not stop mobs from spawning and attacking you when it is night for everyone else.
 
-Quality of life enhancing perks
+Helpful Extras
 --------
 
 These commands, whilst not doing much, help to make your life more efficient on the server.
