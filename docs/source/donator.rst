@@ -70,6 +70,14 @@ Perks
     - Coloured Name
     - Coloured Name
     - Coloured Name
+  * - Personal Time
+    - Personal Time
+    - Personal Time
+    - Personal Time
+    - Personal Time
+    - Personal Time
+    - Personal Time
+    - Personal Time
   * -
     - Sit
     - Sit
@@ -174,6 +182,24 @@ Coloured Name
 By selecting a donator tag, you also have the ability to change the colour of your name.
 To do this simply just run ``/tags`` and select a donator tag (Donator, 420, UwU, Senpai)
 After selecting your tag, another menu will come up with colours on them. From here, simply select the colour you wish your name to be
+
+Personal Time
+--------
+
+This allows you to visually see a different time of day from the rest of the server.
+Simply do ``/ptime <option>`` to set it.
+
+Current options:
+Freeze - Pauses the daylight cycle
+Unfreeze - Resumes the daylight cycle
+Day - Sets time to day
+Night - Sets time to night
+Dusk - Sets time to dusk
+Morning - Sets time to morning
+Realtime - Sets your time to the server's time
+Reset - Resyncs you with standard server time
+
+.. warning:: Having your personal time as day will not stop mobs from spawning and attacking you when it is night for everyone else.
 
 Punch Staff
 --------
