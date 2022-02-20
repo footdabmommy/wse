@@ -190,7 +190,6 @@ This allows you to visually see a different time of day from the rest of the ser
 Simply do ``/ptime <option>`` to set it.
 
 Current options:
-.. code-block::
   Freeze - Pauses the daylight cycle
   Unfreeze - Resumes the daylight cycle
   Day - Sets time to day
