@@ -110,7 +110,7 @@ Perks
     - Punch Jr. Mod+
     - Punch Jr. Mod+
     - Punch Jr. Mod+
-    * -
+  * -
     - Happy Particles
     - Rainbow Particles
     -
