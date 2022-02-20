@@ -14,22 +14,22 @@ Perks
 
 .. list-table::
    
-  * - **Donator**
-    - **420**
-    - **UwU**
-    - **BigChungus**
-    - **Nice**
-    - **Senpai**
-    - **Beeg Yoshi**
-    - **Bruh Moment**
-  * - Donator Prefix
-    - 420 Prefix
-    - UwU Prefix
-    - BigChungus Prefix
-    - Nice Prefix
-    - Senpai Prefix
-    - Beeg Yoshi Prefix
-    - Bruh Moment Prefix
+  * - **1 USD**
+    - **4.20 USD**
+    - **10 USD**
+    - **40 USD**
+    - **69.69 USD**
+    - **100 USD**
+    - **250 USD**
+    - **400 USD**
+  * - "Donator" Prefix
+    - "420 haha" Prefix
+    - "(❀˘꒳˘)" Prefix
+    - "Big Chungus" Prefix
+    - "Nice!" Prefix
+    - "Senpai" Prefix
+    - "Beeg Yoshi" Prefix
+    - "Bruh Moment" Prefix
   * - Fly in hub
     - Fly in hub
     - Fly in hub
@@ -126,6 +126,7 @@ Perks
     -
     -
     -
+
 
 Fly
 --------
