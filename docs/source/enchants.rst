@@ -10,7 +10,7 @@ Blank Enchanted Book
 
 .. image:: https://media.discordapp.net/attachments/877207380625096734/945009221240512592/unknown.png
 
-To make a block enchated book, use a Mending book and blaze powder.
+To make a blank enchated book, use a Mending book and blaze powder.
 
 .. note:: This book is needed in most recipies.
 
