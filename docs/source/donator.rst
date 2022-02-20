@@ -120,12 +120,12 @@ Perks
     - Punch Jr. Mod+
   * - 
     -
-    - `Helpful Extras <https://docs.worstserverever.com/en/latest/donator.html#helpful-extras>`_
-    - `Helpful Extras <https://docs.worstserverever.com/en/latest/donator.html#helpful-extras>`_
-    - `Helpful Extras <https://docs.worstserverever.com/en/latest/donator.html#helpful-extras>`_
-    - `Helpful Extras <https://docs.worstserverever.com/en/latest/donator.html#helpful-extras>`_
-    - `Helpful Extras <https://docs.worstserverever.com/en/latest/donator.html#helpful-extras>`_
-    - `Helpful Extras <https://docs.worstserverever.com/en/latest/donator.html#helpful-extras>`_
+    - `Helpful Extras <https://docs.worstserverever.com/en/latest/donator.html#id6>`_
+    - `Helpful Extras <https://docs.worstserverever.com/en/latest/donator.html#id6>`_
+    - `Helpful Extras <https://docs.worstserverever.com/en/latest/donator.html#id6>`_
+    - `Helpful Extras <https://docs.worstserverever.com/en/latest/donator.html#id6>`_
+    - `Helpful Extras <https://docs.worstserverever.com/en/latest/donator.html#id6>`_
+    - `Helpful Extras <https://docs.worstserverever.com/en/latest/donator.html#id6>`_
   * -
     - Happy Particles
     - Rainbow Particles
