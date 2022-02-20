@@ -40,3 +40,4 @@ Contents
    brewery
    donator
    ticket system
+   enchants
