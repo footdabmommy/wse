@@ -103,6 +103,14 @@ Perks
     - Painting Scroll
     - Painting Scroll
   * -
+    -
+    - Punch Jr. Mod+
+    - Punch Jr. Mod+
+    - Punch Jr. Mod+
+    - Punch Jr. Mod+
+    - Punch Jr. Mod+
+    - Punch Jr. Mod+
+    * -
     - Happy Particles
     - Rainbow Particles
     -
@@ -118,18 +126,6 @@ Perks
     -
     -
     -
-
-
-  * -
-    -
-    - Punch Jr. Mod+
-    - Punch Jr. Mod+
-    - Punch Jr. Mod+
-    - Punch Jr. Mod+
-    - Punch Jr. Mod+
-    - Punch Jr. Mod+
-
-.. note::
 
 Fly
 --------
