@@ -191,15 +191,15 @@ Simply do ``/ptime <option>`` to set it.
 
 
 .. code-block::
-  Current options:
-  Freeze - Pauses the daylight cycle
-  Unfreeze - Resumes the daylight cycle
-  Day - Sets time to day
-  Night - Sets time to night 
-  Dusk - Sets time to dusk
-  Morning - Sets time to morning
-  Realtime - Sets your time to the server's time
-  Reset - Resyncs you with standard server time
+ Current options:
+ Freeze - Pauses the daylight cycle
+ Unfreeze - Resumes the daylight cycle
+ Day - Sets time to day
+ Night - Sets time to night 
+ Dusk - Sets time to dusk
+ Morning - Sets time to morning
+ Realtime - Sets your time to the server's time
+ Reset - Resyncs you with standard server time
 
 .. warning:: Having your personal time as day will not stop mobs from spawning and attacking you when it is night for everyone else.
 
