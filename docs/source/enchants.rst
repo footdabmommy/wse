@@ -58,6 +58,7 @@ Takeoff Enchantment
 --------
 
 Double jump with your elytra to recieve a small boost!
+
 .. image:: https://media.discordapp.net/attachments/877207380625096734/945009743632683079/unknown.png
 
 Seeding Enchantment
@@ -86,6 +87,6 @@ Soulbound Enchantment
 
 Items with this enchantment will be kept on death!
 
-.. immage:: https://media.discordapp.net/attachments/877207380625096734/945010382278389780/unknown.png
+.. image:: https://media.discordapp.net/attachments/877207380625096734/945010382278389780/unknown.png
 
 .. note:: The circled book is curse of binding!
