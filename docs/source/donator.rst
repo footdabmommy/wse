@@ -201,6 +201,21 @@ Current options:
 
 .. warning:: Having your personal time as day will not stop mobs from spawning and attacking you when it is night for everyone else.
 
+Quality of life enhancing perks
+--------
+
+These commands, whilst not doing much, help to make your life more efficient on the server.
+
+This includes:
+
+`/besttools` - Automatically selects the best tool for doing what you are doing (e.g. an axe will be automatically selectedmfor mining wood)
+
+`/refill` - Automatically replenishes resources into your hand from your inventory when you run out. 
+
+`/chestsort` - Automatically places items into a neat order inside a container
+
+You can also open a double door as if it was one door!
+
 Punch Staff
 --------
 .. note:: The UwU tag is needed for this perk!
