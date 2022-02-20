@@ -8,7 +8,7 @@ Something wrong with the server? have a really interesting question (that HASN'T
 Well then support tickets are here for YOU!
 
 .. warning::
-    Before making a ticket, ask yourself ifa regular member can answer your question. If so, the #community-help channel is for you!
+    Before making a ticket, ask yourself if a regular member can answer your question. If so, the #community-help channel is for you!
     To make a ticket go to #make-a-ticket on our `discord server <https://discord.worstserverever.com>`_ and press the support ticket button.
     Please then try to tell us what you need support with. Inactive tickets will be closed.
     If the issue involves an in-game issue please provide relevant information (like coordinates and usernames).
