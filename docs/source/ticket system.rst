@@ -22,7 +22,7 @@ Joined one day and your favourite wooden plank is missing or you met one of thos
 Player/Member reports  all you to communicate one on one with moderators.
 You DO NOT need to know who did it to open a player report (we can find this out easily)
 
-.. note:: You will not find out who was the culprit except its a very special case.
+.. note:: You will not find out who was the culprit unless it is a very special case.
 
 .. warning::
     It may sometimes take us a long time to get this information please do not pressure us and instead provide coordinates immediately so we can do our searches easily.
