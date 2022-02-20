@@ -6,6 +6,9 @@ You can support us `here <https://shop.worstserverever.com>`_!
 Donating unlocks perks for you to use on the minecraft server.
 On the discord server you get access to the supporters lounge.
 
+.. note:: Tags available by default are Donator ($1), 420 haha ($4.20), UwU ($10) and Senpai ($100). Special donator tags are available at random times. The doc will only be updated for changes made to the default tags.
+
+
 Perks
 --------
 
@@ -68,14 +71,6 @@ Perks
     - Coloured Name
     - Coloured Name
   * -
-    - Nickname
-    - Nickname
-    - Nickname
-    - Nickname
-    - Nickname
-    - Nickname
-    - Nickname
-  * -
     - Sit
     - Sit
     - Sit
@@ -91,6 +86,22 @@ Perks
     - Full Server Bypass
     - Full Server Bypass
     - Full Server Bypass
+  * -
+    - Shift Sign Edit
+    - Shift Sign Edit
+    - Shift Sign Edit
+    - Shift Sign Edit
+    - Shift Sign Edit
+    - Shift Sign Edit
+    - Shift Sign Edit
+  * -
+    - Painting Scroll
+    - Painting Scroll
+    - Painting Scroll
+    - Painting Scroll
+    - Painting Scroll
+    - Painting Scroll
+    - Painting Scroll
   * -
     - Happy Particles
     - Rainbow Particles
@@ -107,6 +118,8 @@ Perks
     -
     -
     -
+
+
   * -
     -
     - Punch Jr. Mod+
@@ -115,25 +128,8 @@ Perks
     - Punch Jr. Mod+
     - Punch Jr. Mod+
     - Punch Jr. Mod+
-  * - 
-    - Shift Sign Edit
-    - Shift Sign Edit
-    - Shift Sign Edit
-    - Shift Sign Edit
-    - Shift Sign Edit
-    - Shift Sign Edit
-    - Shift Sign Edit
-  * - 
-    - Painting Scroll
-    - Painting Scroll
-    - Painting Scroll
-    - Painting Scroll
-    - Painting Scroll
-    - Painting Scroll
-    - Painting Scroll
 
-.. note:: Tags available by default are Donator ($1), 420 haha ($4.20), UwU ($10) and Senpai ($100). Special donator tags are available at random times. The doc will only be updated for changes made to the default tags.
-
+.. note::
 
 Fly
 --------
@@ -156,7 +152,7 @@ To ride a dolphin simply right click on it.
 Sit
 --------
 
-| To sit, simply use ``/sit``
+| To sit, simply right click on a slab or stair with a free hand or use ``/sit``
 Left shift or sneak to stand up.
 
 Sign edit
