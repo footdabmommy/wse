@@ -6,7 +6,7 @@ Support Tickets
 
 Something wrong with the server? Have a really interesting question (that HASN'T been answered in a public channel)? Found a bug/would like to discuss something with staff?
 Well then support tickets are here for YOU!
-
+a very cool edit
 .. warning::
     Before making a ticket, ask yourself if a regular member can answer your question. If so, the `#community-help <https://canary.discord.com/channels/776986519910875168/936561352003158036>`_ channel is for you!
 
