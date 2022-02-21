@@ -21,7 +21,6 @@ Book of The Gods
 
 You will need: 3 blank enchantment books, 1 nether star, 1 heart of the sea.
 
-.. note:: This book is used to make Ancient Enchantments.
 
 Careless Enchantment
 --------
