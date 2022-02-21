@@ -10,7 +10,7 @@ Claim Area
 
 | To easily claim an area (9x9 blocks, 81 claim blocks) use the command ``/claim``
 This will create an area marked temporarily by gold and glowstone.
-In this area no one else is able to break, place or interact with any blocks except it is a trusted player `trusted player <https://docs.worstserverever.com/en/latest/claims.html#trust-player>`_.
+In this area no one else is able to break, place or interact with any blocks except it is a `trusted player <https://docs.worstserverever.com/en/latest/claims.html#trust-player>`_.
 You can right click a corner with a wooden shovel to change the size.
 
 .. warning:: Entities such as cows, villagers, cats, etc. are **NOT** protected by a claim!
