@@ -7,7 +7,7 @@ Link Discord and Minecraft accounts
 To link your Discord and Minecraft accounts, run ``/dlink`` in game.
 This will generate a 4 digit code which is sent to you in the chat.
 Then DM the Worst Server Ever bot on discord (Name: 'Worst Server Ever#9344') with the code.
-If you have done this correctly, your accounts will be linked and you will recieve a Discord tag in-game.
+If you have done this correctly, your accounts will be linked and you will recieve a Discord tag in-game and the linked role in the discord. This linked role allows you to talk im `#worst-gamechat-ever <https://discord.com/channels/776986519910875168/943107526172495892>`_!
 
 .. image:: https://i.imgur.com/5sCo8e6.png
 
