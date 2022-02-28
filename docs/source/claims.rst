@@ -107,3 +107,5 @@ How to get out of a claim if stuck
 --------
 
 To teleport out of a claimed area you are trapped in, use the command ``/trapped``.
+
+
