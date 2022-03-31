@@ -36,7 +36,7 @@ Warps
 
 ``/ob warps`` - Lists available warps
 
-Create a warp by making a sign with `[welcome]` on the top line.
+Create a warp by making a sign with ``[welcome]`` on the top line.
 
 .. warning:: Do not make death traps or you will be punished
 
