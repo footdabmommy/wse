@@ -7,8 +7,8 @@ The complete list of commands for skyblock
 
 Island Management
 --------
-``/ob create`` - Creates an island
-| ``/ob settings`` - Brings up island menu
+``/ob create`` - Creates an island :raw-html:`<br />`
+``/ob settings`` - Brings up island menu
 ```/ob setname`` - Sets name of your island
 ``/ob reset`` - Resets your island
 ``/ob resetname` - Resets your island name
