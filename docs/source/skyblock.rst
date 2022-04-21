@@ -12,7 +12,7 @@ Island Management
 
 ``/ob settings`` - Brings up island menu
 
-```/ob setname`` - Sets name of your island
+``/ob setname`` - Sets name of your island
 
 ``/ob reset`` - Resets your island
 
