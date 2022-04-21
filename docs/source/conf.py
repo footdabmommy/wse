@@ -29,7 +29,7 @@ templates_path = ['_templates']
 
 # -- Options for HTML output
 
-html_title = 'WSE-icon.ico'
+html_logo = 'WSE-icon.ico'
 html_favicon = 'WSE-icon.ico'
 html_theme = 'sphinx_rtd_theme'
 
