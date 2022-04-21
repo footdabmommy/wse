@@ -6,8 +6,8 @@ project = 'Worst Server Ever Docs'
 copyright = '2022 - Present, Worst Server Ever'
 author = 'JaroolFan69'
 
-release = '0.1'
-version = '0.8.4b'
+release = '1.0'
+version = '0.9.1a'
 
 # -- General configuration
 
@@ -29,6 +29,8 @@ templates_path = ['_templates']
 
 # -- Options for HTML output
 
+html_title = 'Worst Server Ever Documentation'
+html_short_title = 'WSE Docs'
 html_favicon = 'WSE-icon.ico'
 html_theme = 'sphinx_rtd_theme'
 
