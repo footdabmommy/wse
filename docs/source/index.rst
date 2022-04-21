@@ -1,4 +1,4 @@
-Worst Server Ever documentation
+.. image:: https://media.discordapp.net/attachments/877207380625096734/966768888148811836/Worst_server_ever.png
 ===================================
 
 Welcome to the documentation for the Worst Server Ever! Here you can find information on commands and how to use them!
