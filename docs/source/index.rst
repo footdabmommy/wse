@@ -3,10 +3,10 @@
 
 Welcome to the documentation for the Worst Server Ever! Here you can find information on commands and how to use them!
 
-This icon indicates that the feature doesn't work or has limited functionality on bedrock.
-
-.. image:: https://cdn.discordapp.com/attachments/943850906817036370/944358740839264256/Bedrock_JE2_BE2.webp
+.. |Bedrock| image:: https://cdn.discordapp.com/attachments/943850906817036370/944358740839264256/Bedrock_JE2_BE2.webp
     :width: 100
+
+.. note:: This icon |Bedrock| indicates that the feature doesn't work or has limited functionality on bedrock.
 
 Want to join the server?
 --------
