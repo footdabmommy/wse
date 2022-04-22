@@ -30,8 +30,6 @@ templates_path = ['_templates']
 # -- Options for HTML output
 
 html_static_path = ['_static']
-html_title = 'Worst Server Ever Documentation'
-html_short_title = 'WSE Docs'
 html_favicon = 'WSE-icon.ico'
 html_theme = 'sphinx_rtd_theme'
 html_logo = 'WSE-banner.png'
