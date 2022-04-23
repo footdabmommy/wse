@@ -32,7 +32,7 @@ templates_path = ['_templates']
 html_static_path = ['_static']
 html_favicon = 'WSE-icon.ico'
 html_theme = 'sphinx_rtd_theme'
-html_logo = 'WSE-banner.png'
+html_logo = 'WSE-banner.PNG'
 html_theme_options = {
     'logo_only': True,
     'display_version': False,
