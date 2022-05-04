@@ -49,6 +49,7 @@ This is only a simple overview of world edit.
 For more detail, visit `their documentation. <https://worldedit.enginehub.org/en/latest/commands/>`_
 
 ``//wand`` - Gives you a wooden axe, which is the selection tool
+
 .. note:: To use the 'wand', left click on a block to set position and right click on a block to set position 2
           You need to make an area selection to use the other commands.
 
@@ -64,5 +65,11 @@ Other Commands
 --------
 
 ``/plot clear`` - Clears your plot
+
 .. note:: You will need to use ``/plot confirm`` to confirm this action
+
 .. warning:: This will wipe everything from your plot
+
+``/ptime <time>`` - Changes your time to the specified time
+
+``/cmi flyspeed <speed>`` - Changes your flight speed
