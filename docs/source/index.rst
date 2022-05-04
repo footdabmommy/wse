@@ -40,6 +40,7 @@ Contents
    ticket system
    enchants
    skyblock
+   creative
 
 
 
