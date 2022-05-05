@@ -1,9 +1,9 @@
-Skyblock
+Oneblock
 =====
 
-The complete list of commands for skyblock
+The complete list of commands for oneblock
 
-.. note:: Skyblock is currently in beta, so expect bugs
+.. note:: Oneblock is currently in beta, so expect bugs
    You can see and report bugs in `the bugs thread <https://discord.com/channels/776986519910875168/955984541686837278>`_
 
 Island Management
