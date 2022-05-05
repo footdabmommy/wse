@@ -39,7 +39,7 @@ Contents
    donator
    ticket system
    enchants
-   skyblock
+   oneblock
    creative
 
 
