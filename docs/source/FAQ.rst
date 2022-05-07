@@ -9,6 +9,7 @@ The server uses `Terralith <https://www.planetminecraft.com/data-pack/terralith-
 Whats up with mending?
 ----
 At it's default state mending is too powerful to use so we have tweaked it to be a little more fair.
+
 .. note:: Mending tweaks are still actively being worked on and may be changed with notice.
 
 I keep hearing of an in game chat, how do I access?
@@ -26,6 +27,7 @@ While there are ways to join on console we will not provide support for them as 
 I died from lag, can I get my stuff back, please mods?
 ----
 short answer: no
+
 long answer: hmmm...                                              no.
 
 I have another question!
