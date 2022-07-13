@@ -989,7 +989,7 @@ Extra Enchantments
     
   * - Water Artifact
     - Creates dripping water particles
-    - Artifsct Items
+    - Atifact Items
     - 1
     
   * - Water Aspect
@@ -998,10 +998,41 @@ Extra Enchantments
     - 2
     
   * - Wax Artifact
+    - Creates wax particles
+    - Artifact Items
+    - 1
+
   * - Weakening
+    - Increases subsequent damage dealt to opponent
+    - Swords
+    - 4
+
   * - Wisdom
+    - Increases dropped experience
+    - Tools, Weapons, Ranged
+    - 3
+
   * - Witch Artifact
+    - Creates witch particles
+    - Artifact Items
+    - 1
+
   * - Wood Switcher
+    - Breaking logs can drop as other logs.
+    - Axes
+    - 6
+
   * - Wound
+    - Causes your opponent to bleed, damaging them repeatedly
+    - Bows and Crossbows
+    - 7
+
   * - Zap Artifact
+    - Creates electric particles
+    - Artifact Items 
+    - 1 
+
   * - Zeus
+    - Chance to strike lightning on your opponent
+    - Bows and Crossbows
+    - 6
