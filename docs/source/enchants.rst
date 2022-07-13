@@ -203,7 +203,7 @@ Extra Enchantments
     - Tools
     - 1
     
-  * - Curse of Permanence#
+  * - Curse of Permanence
     - Prevents item from being modified in an anvil
     - Everything
     - 1
