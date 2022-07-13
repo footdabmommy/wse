@@ -694,16 +694,60 @@ Extra Enchantments
     - 4
     
   * - Rage
+    - Chance of angering nearby monsters towards your opponent
+    - Bows
+    - 5
+    
   * - Rain Artifact
+    - Creates rain particles
+    - Artifact Items
+    - 1
+    
   * - Rapid
+    - Increases bow pull speed
+    - Bows
+    - 6
+    
   * - Razor
+    - Massively increases damage dealt
+    - Swords
+    - 8
+    
   * - Rebounding
+    - Deal knockback to entities that attack you
+    - Armour
+    - 2
+    
   * - Redstone Artifact
+    - Creates redstone particles
+    - Artifact Items
+    - 1
+    
   * - Reel
+    - Pulls entities towards you
+    - Fishing Rods
+    - 2
+    
   * - Reinforcement
+    - Reduces incoming damage 
+    - Elytra
+    - 4
+    
   * - Rejuvenation
+    - Increases natural regeneration speed
+    - Armour
+    - 2
+    
   * - Reparing
+    - Automatically repairs items when not held
+    - Everything
+    - 3
+    
   * - Replenish
+    - Automatically replants crops
+    - Hoes
+    - 1
+    
   * - Respirator
   * - Revenant
   * - Sating
