@@ -203,104 +203,496 @@ Extra Enchantments
     - Tools
     - 1
     
-  * - Curse of Permanence
+  * - Curse of Permanence#
+    - Prevents item from being modified in an anvil
+    - Everything
+    - 1
+    
   * - Damage Artifact
+    - Creates damage particles
+    - Artifact Items
+    - 1
+    
   * - Defender
+    - Prevents you from damaging your own pets
+    - Bows and Crossbows
+    - 1
+    
   * - Defusion
+    - Increases damage against creepers
+    - Swords and Axes
+    - 5
+    
   * - Dexterous
+    - Increases attack speed
+    - Swords and Axes
+    - 2
+    
   * - Disable
+    - Chance of giving your opponent extreme mining fatigue
+    - Axes
+    - 3
+    
   * - Diurnal
+    - Increases damage delt at daytime
+    - Swords
+    - 6
+    
   * - Diverse
+    - Increases damage dealt against players holding swords
+    - Axes
+    - 6
+    
   * - Dragon Artifact
+    - Creates dragon breath particles
+    - Artifact Items
+    - 1
+    
   * - Drill
+    - Mines blocks behind other blocks
+    - Tools
+    - 5
+    
   * - Dullness
+    - Chance of giving your opponent weakness
+    - Swords
+    - 3
+    
   * - Dust Artifact
+    - Creates dust particles
+    - Artifact Items
+    - 1
+    
   * - Dweller
+    - Increases damage agains illagers
+    - Swords and Axes
+    - 3
+    
   * - Dynamite
+    - Mines blocks in a large area
+    - Pickaxes
+    - 1
+    
   * - Economical
+    - Chance to not consume fireworks while boosting
+    - Elytra
+    - 4
+    
   * - Emerald Artifact
+    - Creates emerald particles
+    - Artifact Items
+    - 1
+    
   * - Enchantment Artifact
+    - Creates enchantment particles
+    - Artifact Items
+    - 1
+    
   * - End Artifact
+    - Creates end rod particles
+    - Artifact Items
+    - 1
+    
   * - End Infusion
+    - Increases damage dealt in the end
+    - Swords
+    - 6
+    
   * - End Slayer
+    - Increases damage against end mobs
+    - Swords and Axes
+    - 5
+    
   * - Enderism
+    - Increases damage dealt in the end 
+    - Bows and Crossbows
+    - 6
+    
   * - Energizing
+    - Receive a short burst of haste after breaking a block
+    - Tools
+    - 3
+    
   * - Evasion
+    - Chance to ignore incoming damage
+    - Armour
+    - 3
+    
   * - Extinguishing
+    - Chance to remove fire when taking fire damage
+    - Armour
+    - 3
+    
   * - Extract
+    - Heals a portion of damage dealt
+    - Tridents
+    - 6
+    
   * - Famine
+    - Chance of giving your opponent hunger
+    - Swords
+    - 8
+    
   * - Farmhand
+    - Till blocks around initial blocks
+    - Hoes
+    - 2
+    
   * - Fetching
+    - Drops and xp from wolf kills go directly into your inventory
+    - Helmets
+    - 1
+    
   * - Finality
+    - Chance to instantly kill entities on low health
+    - Bows
+    - 5
+    
   * - Finishing
+    - Chance to instantly kill entities on low health
+    - Swords
+    - 5
+    
   * - Fire Artifact
+    - Creates fire particles
+    - Artifact Items
+    - 1
+    
   * - First Strike
+    - Increases damage dealt when entity is on max health
+    - Swords
+    - 5
+    
   * - Force
+    - Massively increases arrow damage
+    - Bows
+    - 4
+    
   * - Freerunner
+    - Chance to ignore fall damage
+    - Boots
+    - 6
+    
   * - Frenzy
+    - Gives strength after killing an entity
+    - Swords
+    - 3
+    
   * - Frozen
+    - Chance to give your attacker slowness
+    - Armour
+    - 6
+    
   * - Glow Artifact
+    - Creates glow particles
+    - Artifact Items
+    - 1
+    
   * - Graceful
-  * - Green Thumn
+    - Chance of getting slow falling just before hiting the ground
+    - Boots
+    - 6
+    
+  * - Green Thumb
+    - Left clicking dirt turns it into grass
+    - Hoes
+    - 1
+    
   * - Harpoon
+    - Hooking onto an entity will heavily damage it
+    - Fishing rods
+    - 3
+    
   * - Heart Artifact
+    - Creates heart particles
+    - Artifact Items
+    - 1
+    
   * - Hellish
+    - Increases damage dealt in the nether
+    - Tridents
+    - 6
+    
   * - Honey Artifact
+    - Creates dripping honey particles
+    - Artifact Items
+    - 1
+    
   * - Hook
+    - Pulls entities towards you
+    - Bows
+    - 2
+    
   * - Horde
+    - Increases damage dealt the more mobs are nearby
+    - Swords
+    - 4
+    
   * - Ice Shot
+    - Chance of freezing your opponent
+    - Bows and Crossbows
+    - 3
+    
   * - Impact
+    - Small chance to deal extreme damage
+    - Tridents
+    - 3
+    
   * - Incandescence
+    - Light your attacker on fire
+    - Armour
+    - 2
+    
   * - Indestructibility
+    - Massively increases item durability
+    - Everything
+    - 3
+    
   * - Infernal Touch
+    - Automatically smelt mined blocks	
+    - Tools
+    - 1
+    
   * - Inferno
+    - Flaming tridents
+    - Tridents
+    - 1
+    
   * - Ink Artifact
+    - Creates ink paricles
+    - Artifact Items
+    - 1
+    
   * - Insecticide
+    - Increases damage against spiders
+    - Bows
+    - 5
+    
   * - Instantaneous
+    - Chance of instantly breaking blocks
+    - Tools
+    - 7
+    
   * - Intellect
+    - Massively increases dropped experience
+    - Tools, Weapons and Ranged
+    - 3
+    
   * - Introversion 
+    - Increases damage against players
+    - Swords and Axes
+    - 5
+    
   * - Invigoration
+    - Increases outgoing damage and reduces incoming damage when low on health
+    - Armour
+    - 3
+    
   * - Kinetic
+    - Reduces damage taken when flying into a wall
+    - Elytra
+    - 6
+    
   * - Launch
+    - Fireworks give a short burst of extreme speed
+    - Elytra
+    - 8
+    
   * - Lava Artifact
+    - Creates dripping lava particles
+    - Artifact Items
+    - 1
+    
   * - Leeching
+    - Heals a portion of damage dealt
+    - Swords and Axes
+    - 6
+    
   * - Lesion
+    - Causes your opponent to bleed, damaging them repeatedly
+    - Tridents
+    - 7
+    
   * - Levitate
+    - Chance of applying levitation to your opponent
+    - Bows and Crossbows
+    - 2
+    
   * - Life Steal
+    - Heals a large portion of damage dealt
+    - Swords and Axes
+    - 6
+    
   * - Light Artifact
+    - Creates light particles
+    - Artifact Items
+    - 1
+    
   * - Lime Artifact
+    - Creates lime particles
+    - Artifact Items
+    - 1
+    
   * - Lucky Catch
+    - Chance to double fishing drops
+    - Fishing Rods
+    - 3
+    
   * - Lumberjack
+    - Instantly cut down entire trees
+    - Axes
+    - 6
+    
   * - Magic Artifact
+    - Creates magic particles
+    - Artifact Items
+    - 1
+    
   * - Magma Artifact
+    - Creates lava pop particles
+    - Artifact Items
+    - 1
+    
   * - Magnetic
+    - Items and XP go towards you
+    - Boots
+    - 4
+    
   * - Marking
+    - Increases subsequent damage dealt to opponent
+    - Bows and Crossbows
+    - 4
+    
   * - Marksman
+    - Removes arrow drop
+    - Bows and Crossbows
+    - 1
+    
   * - Missile
+    - Shoots a wither skull
+    - Swords
+    - 1
+    
   * - Music Artifact
+    - Creates note particles
+    - Artifact Items
+    - 1
+    
   * - Nautilus Artifact
+    - Creates nautilus particles
+    - Artifact Items
+    - 1
+    
   * - Necroitc
+    -	Wither skeletons have a higher chance to drop skulls
+    - Swords
+    - 4
+    
   * - Nether Artifact
+    - Creates nether portal particles
+    - Artifact Items
+    - 1
+    
   * - Nether Infusion
+    - Increases damage dealt in the nether
+    - Sowrds
+    - 6
+    
   * - Netheric
+    - Increases damage dealt in the nether
+    - Bows and Crossbows
+    - 6
+    
   * - Nocturnal
+    - Increases damage dealt at night
+    - Swords
+    - 6
+    
   * - Optics
+    - Increases damage when further from target
+    - Bows and Crossbows
+    - 5
+    
   * - Oxygenate
+    - Gain oxygen when breaking blocks underwater
+    - Tools
+    - 8
+    
   * - Pacify
+    - Increases damage against creepers
+    - Tridents
+    - 5
+    
   * - Paladin
+    - Increases damage dealt when riding a horse
+    - Swords
+    - 3
+    
   * - Paralyze
+    - Chance to give your attacker mining fatigue
+    - Shields
+    - 6
+    
   * - Parasitic
+    - Heals a portion of damage dealt
+    - Ranged
+    - 6
+    
   * - Parry
+    - Reduces incoming damage when holding an item
+    - Swords
+    - 4
+    
   * - Pentashot
+    - Shoots 5 arrows
+    - Bows
+    - 1
+    
   * - Phantasm
+    - Increases damage against undead mobs
+    - Tridents
+    - 5
+    
   * - Plasmic
+    - Increases damage dealt against opponents with diamond or netherite armor
+    - Swords
+    - 5
+    
   * - Perservation
+    - Massively reduces incoming damage
+    - Armour
+    - 4
+    
   * - Prosperity
+    -	Massively increases maximum health
+    - Armour
+    - 3
+    
   * - Protector
+    -	Prevents damaging your own pets
+    - Swords and Axes
+    - 1
+    
   * - Proximity
+    - Increases damage when closer to opponent
+    - Swords
+    - 5
+    
   * - Puncture
+    - Trident deals additional damage to shelled mobs
+    - Tridents
+    - 6
+    
   * - Quadrilateralism
+    -	Increases damage dealt against slimes and magma cubes
+    - Bows and Crossbows
+    - 7
+    
   * - Radiance
+    - Causes entities to glow near where arrow lands
+    - Bows and Crossbows
+    - 4
+    
   * - Rage
   * - Rain Artifact
   * - Rapid
