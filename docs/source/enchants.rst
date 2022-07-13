@@ -749,23 +749,115 @@ Extra Enchantments
     - 1
     
   * - Respirator
+    - Reduces dragon breath damage
+    - Helmets
+    - 6
+    
   * - Revenant
+    - Increases damage against undead mobs
+    - Bows
+    - 5
+    
   * - Sating
+    - Reduces hunger loss
+    - Helmets
+    - 6
+    
   * - Serrated
+    - Trident deals additional damage
+    - Tridents 
+    - 5
   * - Settle
+    - Increases damage against creepers
+    - Bows
+    - 5
+   
   * - Shockwave
+    - Damages entities that arrows fly near
+    - Bows 
+    - 3
+    
   * - Shot Assist
+    - Deal more damager wirh arrows while wearing
+    - Armour
+    - 6
+    
   * - Sickenin
+    - Chance of nauseating you opponent
+    - Bows and Crossbows
+    - 2
+    
   * - Skulk Artifact
+    - Creates skulk vibration particles
+    - Artifact Items
+    - 1
+    
   * - Slaughter
+    - Increases damage against passive mobs
+    - Bows
+    - 5
+    
   * - Slicing
+    - Damages entities when flown through
+    - Elytra
+    - 8
+    
   * - Slime Artifact
+    - Creates slime particles
+    - Atifact Items
+    - 1
+    
   * - Smoke Artifact
+    - Creates smoke particles
+    - Atifact Items
+    - 1
+    
   * - Snow Artifact
+    - Creates snow particles
+    - Artifact Items
+    - 1
+    
   * - Soul Artifact
+    - Creates soul particles
+    - Artifact Items
+    - 1
+    
   * - Sould Fire Artifact
+    - Creates soul flame particles
+    - Artifact Items
+    - 1
+    
   * - Soulbound
+    - Keep this item on death
+    - Everything
+    - 1
+    
   * - Spark Artifact
+    - Creates spark particles
+    - Artifact Items
+    - 1
+    
+  * - Sparkle Artifact
+    - Creates firework particles
+    - 1
+   
+  * - Spearfishing
+    - Chance of dropping fish when tridenting water
+    - Tridents
+    - 1
+  
+  * - Spiked
+    - Hooking onto an entity will damage it
+    - Fishing Rods
+    - 3
+    
+  * - Splash
+    - Damages entities near where trident lands (No XP is dropped)
+    - Tridents
+    - 4
+    
+  * - Spore Artifact
+    - 
   * - Spring
   * - Stab
   * - Stalwart
