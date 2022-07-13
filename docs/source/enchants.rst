@@ -839,6 +839,7 @@ Extra Enchantments
     
   * - Sparkle Artifact
     - Creates firework particles
+    - Artifect Items
     - 1
    
   * - Spearfishing
@@ -857,34 +858,145 @@ Extra Enchantments
     - 4
     
   * - Spore Artifact
-    - 
+    - Creates dripleaf spore particles
+    - Artifect Items
+    - 1
+    
   * - Spring
+    - Increases jump height and distance
+    - Boots
+    - 3
+    
   * - Stab
+    - Increases melee trident damage
+    - Tridents
+    - 5
+    
   * - Stalwart
+    - Get resitance for a short time when taking damage
+    - Armour
+    - 3
+    
   * - Stamina
+    - Decreases hunger loss while sprinting
+    - Boots
+    - 4
+    
   * - Streamlining
+    - Increases movement speed
+    - Boots
+    - 8
+    
   * - Succession
+    - Shoots multiple arrows in a burst
+    - Bows
+    - 1
+    
   * - Supercritical
+    - Small chance to deal extreme damage
+    - Swords
+    - 3
+    
   * - Sweep Artifact
+    - Creates sweeping attack particles
+    - Artifact Items
+    - 1
+    
   * - Tear Artifact
+    - Creates crying obsidian particles
+    - Artifact Items
+    - 1
+    
   * - Tectonic
+    - Damages nearby entities when taking fall damage
+    - Boots
+    - 2
+    
   * - Thor
+    - Chance of striking lightning on your opponent
+    - Swords 
+    - 6
+    
   * - Thrive
+    - Increases maximum health
+    - Armour
+    - 2
+    
   * - Totem Artifact
+    - Creates totem particles
+    - Artifact Items
+    - 1
+    
   * - Toxic
+    - Chance to apply poison to your opponent
+    - Swords
+    - 2
+    
   * - Transfuse
+    - Breaking stone can drop as random ore
+    - Pickaxes
+    - 7
+    
   * - Tripleshot
+    - Shoots 3 arrows
+    - Bows
+    - 1
+    
   * - Vampire Aspect
+    - Chance of withering your opponent
+    - Swords
+    - 2
+    
   * - Vein
+    - Mine blocks in a vein
+    - Pickaxes
+    - 5
+    
   * - Venom
+    - Chance of withering your opponent
+    - Bows and Crossbows
+    - 6
+    
   * - Villager Artifact
+    - Creates happy villager particles
+    - Artifact Items
+    - 1
+    
   * - Vitalize
+    - Puts you back on max health
+    - Swords 
+    - 1
+    
   * - Void Affinity
+    - Increases damage dealt in the end
+    - Tridents
+    - 5
+    
   * - Voltage
+    - Increases damage deal against opponents with iron, gold or chain armour
+    - Swords
+    - 5
+    
   * - Warped Artifact
+    - Creates warped forest particles
+    - Artifact Items
+    - 1
+    
   * - Water Affinity
+    - Increases damage dealt in water
+    - Swords
+    - 7
+    
   * - Water Artifact
+    - Creates dripping water particles
+    - Artifsct Items
+    - 1
+    
   * - Water Aspect
+    - Increases damage dealt against firey mobs and endermen
+    - Swords and Axes
+    - 2
+    
   * - Wax Artifact
   * - Weakening
   * - Wisdom
