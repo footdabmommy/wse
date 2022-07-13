@@ -6,23 +6,19 @@ Extra Enchantments
   * - **Enchantment**
     - **Description**
     - **Items**
-    - **Max Level**
-    
+    - **Max Level**   
   * - Abattoir
     - Increases damage against passive mobs
     - Tridents
-    - 5
-    
+    - 5  
   * - Anger Artifact
     - Spawns angry villager particles
     - Artifact Items
     - 1
-  
   * - Annihilate
     - Extreme knockback
     - Swords and Axes
-    - 2
-    
+    - 2 
   * - Aquatic
     - Trident deals additional damage when shot from water
     - Tridents
