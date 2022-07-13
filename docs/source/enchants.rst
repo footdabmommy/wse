@@ -1,24 +1,28 @@
 Extra Enchantments
-=====
-
+====
+    
 .. list-table::
 
   * - **Enchantment**
     - **Description**
     - **Items**
-    - **Max Level**   
+    - **Max Level**
+    
   * - Abattoir
     - Increases damage against passive mobs
     - Tridents
     - 5  
+    
   * - Anger Artifact
     - Spawns angry villager particles
     - Artifact Items
     - 1
+    
   * - Annihilate
     - Extreme knockback
     - Swords and Axes
     - 2 
+    
   * - Aquatic
     - Trident deals additional damage when shot from water
     - Tridents
@@ -119,7 +123,7 @@ Extra Enchantments
     - Artifact Items
     - 1
     
-  * - Collateral
+  *  - Collateral
      - Arrows can go through entities
      - Bows
      - 4
@@ -145,9 +149,9 @@ Extra Enchantments
     - 2
     
   * - Crimson Artifact
-     - Creates crimson forest particles
-     - Artifact items
-     - 1
+    - Creates crimson forest particles
+    - Artifact items
+    - 1
      
   * - Criticals
     - Increases critical damage
