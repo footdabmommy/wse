@@ -99,7 +99,7 @@ Extra Enchantments
     - 5
     
   * - Carve
-    -	Heavily damage all entities around attacked entity
+    - Heavily damage all entities around attacked entity
     - Axes
     - 8
     
