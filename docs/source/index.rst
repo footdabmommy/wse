@@ -40,14 +40,7 @@ Contents
    donator
    ticket system
    enchants
-   
-   :caption: Oneblock
    oneblock
- 
-Some random text
- 
-.. toctree::
-   :caption: Creative
    creative
 
 
