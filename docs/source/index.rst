@@ -41,8 +41,15 @@ Contents
    ticket system
    enchants
    oneblock
-   creative
+   
+   
 
+
+
+.. toctree::
+   :caption: Creative
+   
+   creative
 
 
 
