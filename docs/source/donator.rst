@@ -6,9 +6,7 @@ You can support us `here <https://shop.worstserverever.com>`_!
 Donating unlocks perks for you to use on the Minecraft server.
 On the Discord server you get access to the supporters lounge.
 
-.. note:: Tags available by default are Donator ($1), 420 haha ($4.20), UwU ($10) and Senpai ($100). Special donator tags are available at random times. This doc will only be updated for changes made to the default tags.
-
-.. warning:: Sadly, at the moment particles don't work due to issues with the plugin.
+.. note:: The ranks available by default are Donator ($1), 420 haha ($4.20) and UwU ($10). Special donator ranks are available at random times. This doc will only be updated for changes made to the default ranks.
 
 
 Perks
