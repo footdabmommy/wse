@@ -28,12 +28,12 @@ Contents
 --------
 
 .. toctree::
+   :name: Survival
 
    homes
    spawn
    claims
    linking
-   TEST
    tags
    pvp
    brewery
