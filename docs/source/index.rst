@@ -27,20 +27,28 @@ Java port: 25565
 Contents
 --------
 
+
+.. toctree::
+   :caption: General
+   
+   linking
+   tags
+   ticket system
+   donator
+   
+   
+   
+   
+
 .. toctree::
    :caption: Survival
 
    homes
    spawn
    claims
-   linking
-   tags
    pvp
    brewery
-   donator
-   ticket system
    enchants
-   oneblock
    
    
 
@@ -53,6 +61,12 @@ Contents
 
 
 
+
+
+.. toctree::
+   :caption: Oneblock
+   
+   oneblock
 
 
 
