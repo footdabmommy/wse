@@ -33,6 +33,7 @@ Contents
    spawn
    claims
    linking
+   TEST
    tags
    pvp
    brewery
