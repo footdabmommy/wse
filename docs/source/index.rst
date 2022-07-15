@@ -28,7 +28,7 @@ Contents
 --------
 
 .. toctree::
-   :name: Survival
+   :caption: Survival
 
    homes
    spawn
