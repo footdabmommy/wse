@@ -2,15 +2,19 @@ World border
 -----
 The world border is currently 50k x 50k (this includes negative cords).
 
-Data packs
+Why does the world look different?
 -----
-The server uses `Terralith <https://www.planetminecraft.com/data-pack/terralith-overworld-evolved-100-biomes-caves-and-more/>`_ for our upgraded world genneration.
+The server uses custom terrain generation which makes the world look nicer. This also causes the textures of blocks, such as leaves, to change slightly if you use the Java Edition.
 
 Whats up with mending?
 ----
 At it's default state mending is too powerful to use so we have tweaked it to be a little more fair.
 
 .. note:: Mending tweaks are still actively being worked on and may be changed with notice.
+
+Why are there no villagers?
+----
+Due to lag related issues, we have disable villagers except at spawn. If you wish to use a villager, please go to the building just next to spawn.
 
 I keep hearing of an in game chat, how do I access?
 ----
