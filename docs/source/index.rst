@@ -66,7 +66,7 @@ Contents
 .. toctree::
    :caption: Oneblock
    
-   oneblock
+   oneblock-commands
 
 
 
