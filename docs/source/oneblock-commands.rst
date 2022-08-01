@@ -59,7 +59,9 @@ Other commands
 ``/ob count`` - See how far into the phase you are
 
 ``/ob like`` — **Whilst on your island** - See total likes.    **Whilst on another island** - Like/Dislike the island
+
 ``/sell`` - Sell the item in your hand.
+
 ``/ah`` - Open the auction house.
 
 Team commands
