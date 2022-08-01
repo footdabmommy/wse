@@ -32,6 +32,7 @@ Contents
    :caption: General
    
    linking
+   general-faq
    tags
    ticket system
    donator
