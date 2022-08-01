@@ -15,4 +15,4 @@ Idk tbh
 
 What are the commands?
 --------
-Please see `here < https://docs.worstserverever.com/en/latest/oneblock-commands.html>`_ for the commands!
+Please see `here <https://docs.worstserverever.com/en/latest/oneblock-commands.html>`_ for the commands!
