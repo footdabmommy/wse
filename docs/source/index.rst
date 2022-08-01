@@ -57,6 +57,7 @@ Contents
 .. toctree::
    :caption: Creative
    
+   creative-info
    creative-commands
 
 
