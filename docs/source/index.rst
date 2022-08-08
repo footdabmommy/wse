@@ -50,6 +50,7 @@ Contents
    pvp
    brewery
    enchants
+   cosmetics
    
    
 
