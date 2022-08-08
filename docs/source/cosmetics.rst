@@ -62,5 +62,6 @@ Do I have to use the in-game shop?
 --------
 No!
 Our `online shop <https://shop.worstserverever.com>`_ allows you to purchase the cosmetics from there.
+
 .. note:: This will use real world money, not WSE points.
 
