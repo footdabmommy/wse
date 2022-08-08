@@ -5,7 +5,7 @@ Here you can find details on the shop menu, the equip menu, and the purpose of W
 What are WSE points?
 --------
 WSE points are a form of virtual currency on the server. They can be obtained by completing quests, 
-winning contests, killing bosses, or in our `shop <https://shop.worsserverever.com>`_.
+winning contests, killing bosses, or in our `shop <https://shop.worstserverever.com>`_.
 They can be used in-game to buy a variety of cosmetics.
 
 How does the in-game shop work?
