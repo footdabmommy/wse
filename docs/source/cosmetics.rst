@@ -29,5 +29,38 @@ From there you can hover the mouse over the cosmetic to see the price of it and 
 
 .. image:: https://media.discordapp.net/attachments/944274084043309056/1006239867384107069/unknown.png
 
-Left clicking it will purchase the item.
+Left clicking it will purchase the cosmetic.
 You will also recieve a confirmation message in chat when you have done so.
+
+.. note:: These are a one-time purchase. Therefore you cannot buy the same cosmetic twice.
+
+How do I equip my cosmetic?
+--------
+This can be done via our equip menu. Use the command `/eqiup` to open it.
+
+Upon opening, you will see this:
+
+.. image:: https://media.discordapp.net/attachments/944274084043309056/1006240336735117342/unknown.png
+
+To access the cosmetic you want, select the correct category the cosmetic is under.
+You can find the category name by hovering over the items.
+Left click to open that category.
+
+.. image:: https://media.discordapp.net/attachments/944274084043309056/1006240426719723650/unknown.png
+.. image:: https://media.discordapp.net/attachments/944274084043309056/1006240572132032573/unknown.png
+
+The cosmetics you own will have an icon like in the shop, and will be able to be equipped.
+
+.. image:: https://media.discordapp.net/attachments/944274084043309056/1006240618453946458/unknown.png
+
+If you do not own the item, it will be displayed as gray dye. 
+Left clicking it will take you to the shop.
+
+.. image:: https://media.discordapp.net/attachments/944274084043309056/1006240665300107444/unknown.png
+
+Do I have to use the in-game shop?
+--------
+No!
+Our `online shop <https://shop.worstserverever.com>`_ allows you to purchase the cosmetics from there.
+.. note:: This will use real world money, not WSE points.
+
