@@ -10,7 +10,7 @@ They can be used in-game to buy a variety of cosmetics.
 
 How does the in-game shop work?
 --------
-The shop can be accessed via the `/shop` command.
+The shop can be accessed via the ``/shop`` command.
 This will bring up a gui as shown below.
 
 .. image:: https://media.discordapp.net/attachments/944274084043309056/1006239149868724274/unknown.png
@@ -36,7 +36,7 @@ You will also recieve a confirmation message in chat when you have done so.
 
 How do I equip my cosmetic?
 --------
-This can be done via our equip menu. Use the command `/eqiup` to open it.
+This can be done via our equip menu. Use the command ``/eqiup`` to open it.
 
 Upon opening, you will see this:
 
