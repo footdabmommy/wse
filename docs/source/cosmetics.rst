@@ -56,7 +56,7 @@ The cosmetics you own will have an icon like in the shop, and will be able to be
 If you do not own the item, it will be displayed as gray dye. 
 Left clicking it will take you to the shop.
 
-.. image:: https://media.discordapp.net/attachments/944274084043309056/1006240665300107444/unknown.png
+.. image:: https://media.discordapp.net/attachments/944274084043309056/1007276496219545733/unknown.png
 
 Do I have to use the in-game shop?
 --------
