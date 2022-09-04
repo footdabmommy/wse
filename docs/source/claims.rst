@@ -3,7 +3,8 @@ Claims
 
 Check for claims
 --------
-| To check for claims simply use a stick and right click the spots you want to check.
+| To check for claims , use ``/show`` to show the claims/
+Use ``/hideclaims`` to remove the visuals
 
 Claim an area
 --------
@@ -72,5 +73,10 @@ How to get out of a claim if stuck
 --------
 
 If you are stuck, use ``/spawn`` or ``/home`` if you have a home made
+
+Can I remove someone from my claim?
+--------
+| Yes
+Just use ``/eject <player>``
 
 
