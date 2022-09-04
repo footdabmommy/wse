@@ -8,10 +8,10 @@ Check for claims
 Claim an area
 --------
 
-| To easily claim an area (9x9 blocks, 81 claim blocks), use the command ``/claim``.
-This will create an area marked temporarily by gold and glowstone.
+| To easily claim an area, use the command ``/claim``.
+You should then click or tap the opposite corners of the area to make a claim
 In this area no one else is able to break, place or interact with any blocks unless it is a `trusted player <https://docs.worstserverever.com/en/latest/claims.html#trust-player>`_.
-You can right click a corner with a wooden shovel to resize the claim - simply follow the instructions given in the chat.
+To resize, use ``/claim``, but this time click the corner you wish to move, then click where you wish it to be/
 
 .. warning:: Entities such as cows, villagers, cats, etc. are **NOT** protected by a claim!
     Please open a `player report ticket <https://docs.worstserverever.com/en/latest/ticket%20system.html#player-member-reports>`_ if your pets were killed.
@@ -19,93 +19,58 @@ You can right click a corner with a wooden shovel to resize the claim - simply f
 Unclaim an area
 --------
 
-| To unclaim an area, stand in it and run the command ``/abandonclaim``.
+| To unclaim an area, stand in it and run the command ``/unclaim``.
+Then press the green concrete.
 This action will delete the claim. This is irreversible.
 
-Unclaim all of your claims
---------
-
-| To unclaim all of your claims, run the command ``/abandonallclaims``.
-This will delete every claim you own. This is irreversible.
+.. note:: You must be in the claim to do this
 
 
 Trust player
 --------
 
 | To trust a player, run the command ``/trust <player>``.
-This will grant them access to your claim.
+This will open a gui, allowing you to set the permissions
 
-.. note:: If you are not standing in a specific claim when running the command, you will trust that person in all of your claims. Furthermore, if you let <player> be the word "public", you will trust *everyone*. This goes for all commands that have to do with trust.
-
-Access trust
---------
-
-| To give access trust, run the command ``/accesstrust <player>``.
-This will give the player access to use buttons, levers and beds inside your claim.
-
-Container trust
---------
-
-| To give container trust, run the command ``/containertrust <player>``.
-This will give the player access to use buttons, levers, bees, crafting gear, containers and animals.
-
-Share your permission level
---------
-
-| To grant someone the ability to manage permissions inside your claim, run the command ``/permissiontrust <player>``.
-Watch out as this allows the player to trust others inside your claim so make sure you trust them!
+.. note:: You must be in the claim to do this
 
 
 Untrust player
 --------
 
-| To untrust a player, run the command ``/untrust <player>``.
-This will remove all permissions that said player had in the claim you are standing in.
+| To untrust a player, run the command ``/trust <player>``.
+Then remove the permissions you do not wish them to have
 
-.. note:: If you are not standing in a specific claim when running this command, you will untrust the player in all of your claims.
+.. note:: You must be inside the claim to do this
 
-Toggle explosions
+Edit settings
 --------
 
-| To toggle explosions, stand inside the claim and run the command ``/claimexplosions``.
-This toggles if explosions are allowed inside the claim.
-
-Give pet / transfer ownership of a pet 
---------
-
-| To give a pet, run the command ``/givepet <player>``.
-This commands transfers the ownership of a tamed animal to another player and is irreversible.
+| Yo edit claim settings, stand in the claim and run the command ``/claimsettings``.
+You can then edit the settings of the claims.
+All settings are explained within the gui
 
 List claims
 --------
 
-| To list all your claims, run the command ``/claimslist``.
-This lists several things, including: The amount of claim blocks you have used, the amount of claim blocks you have left, and where your claims are located (both which world and their coordinates) and how many claim blocks have been used for that specific claim.
+| To list all your claims, run the command ``/claims``.
+This lists several things, including: The amount of claim blocks you have left, and where your claims are located (both which world and their coordinates) and the owner of the claim if it is not you.
 
 Create subclaim
 --------
 
-| To make a subclaim, run the command ``/subdivideclaims``.
-Once you have done this you can use your wooden shovel to create subclaims.
-A subclaim is a claim within a claim that you can grant different permissions for.
+| To make a subclaim, run the command ``/subclaim``.
+Then click the two opposite corners of where you wish the subclaim to be
 
 Restrict subclaim
 --------
 
-| To restrict a subclaim, run the command ``/restrictsubclaim``
-This will make it so the subclaim no longer uses the same permissions as the claim it is in.
+| Subclaims can be restricted from within the ``/claimsettings`` menu
 
-.. note:: What this means is that the permissions for the subclaim are separated from the permissions of the main claim, so you can set permissions for that subclaim without affecting the permissions of the main claim.
-
-Return to normal claiming
---------
-
-| To return to normal claiming mode, run the command ``/basicclaims``.
-This will change your shovel back to creating normal claims.
 
 How to get out of a claim if stuck
 --------
 
-To teleport out of a claimed area you are trapped in, use the command ``/trapped``.
+If you are stuck, use ``/spawn`` or ``/home`` if you have a home made
 
 
