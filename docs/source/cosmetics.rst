@@ -36,7 +36,7 @@ You will also recieve a confirmation message in chat when you have done so.
 
 How do I equip my cosmetic?
 --------
-This can be done via our equip menu. Use the command ``/eqiup`` to open it.
+This can be done via our equip menu. Use the command ``/equip`` to open it.
 
 Upon opening, you will see this:
 
