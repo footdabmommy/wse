@@ -74,7 +74,7 @@ How to get out of a claim if stuck
 
 If you are stuck, use ``/spawn`` or ``/home`` if you have a home made
 
-Can I remove someone from my claim?
+Can I kick someone from my claim?
 --------
 | Yes
 Just use ``/eject <player>``
